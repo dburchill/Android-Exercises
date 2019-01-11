@@ -17,4 +17,6 @@ public class HelloActivity extends AppCompatActivity {
         Log.d( TAG, "Hello Debug Log");
         Log.e(TAG, "Hello Error Log");
     }
+
+
 }
