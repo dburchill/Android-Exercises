@@ -23,7 +23,7 @@ public class HelloToastActivity extends Activity {
         setContentView(R.layout.activity_hello_toast);
 
 
-        // get refrences to layout View objects by finding them by id
+        // get references to View objects in the layout by finding them by id
         toastButton = (Button) findViewById(R.id.toast_button);
         countButton = (Button) findViewById(R.id.count_button);
         showCount = (TextView) findViewById(R.id.show_count);
