@@ -1,0 +1,2 @@
+#Android Programming Exercises
+You will complete all homework and exercises in this git repository. Each exercise will be in a seperate project/folder named Exercise#_N where # and N correspond to the major and minor number of the exercise. For example the first codelab is called "Android fundamentals 0.1: Android Studio and Hello World", so the project and project directory is called "Exercise1_1", likewise the second homework/exercise is called "Exercise_2". 
