@@ -29,7 +29,7 @@ public class HelloToastActivity extends Activity {
         showCount = (TextView) findViewById(R.id.show_count);
 
 
-        // set the toast button callbask using an inner class
+        // set the toast button callback using an inner class
         toastButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
