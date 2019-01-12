@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Exercise1_2B</string>
+    <string name="button_label_toast">Toast</string>
+    <string name="button_label_count">Count</string>
+    <string name="toast_message">Hello Toast</string>
+</resources>
