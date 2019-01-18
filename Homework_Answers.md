@@ -9,4 +9,4 @@
 
 
 ## homework 01.2(a&b)
-1. 
+1. some words go here
